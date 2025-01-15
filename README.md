@@ -1,5 +1,7 @@
 Hospital Management System Software
+
 Overview
+
 The Hospital Management System Software is designed to facilitate effective communication and services between patients and hospital staff. It streamlines hospital operations by integrating entities such as doctors, patients, radiologists, technicians, and laboratories into a unified platform. The software employs well-established design patterns to ensure organization, maintainability, and extensibility, making it an efficient tool for healthcare management.
 
 Features
@@ -15,9 +17,11 @@ Billing is automatically managed for these supplementary services.
 4. Efficiency and Quality
 Enhances the efficiency of hospital operations for both patients and staff.
 Aims to improve the overall quality of healthcare services provided by the hospital.
+
 Key Technologies
 Programming Language: Java
 Java was selected for its robust support for Object-Oriented Programming principles and effective implementation of design patterns.
+
 Design Principles
 1. Design Patterns
 Applied to create an organized and scalable architecture.
@@ -26,6 +30,7 @@ Ensures that the software remains maintainable and extensible for future enhance
 Provides instant updates for appointment management, reducing miscommunication and delays.
 3. Object-Oriented Programming
 Facilitates modular development and reusable code structures, improving the overall software quality.
+
 Project Goals
 Build a platform that improves communication between patients and hospital systems.
 Allow patients to efficiently schedule appointments and manage treatment processes.
